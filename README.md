@@ -1,11 +1,20 @@
-# MERN Altera
+# MERN Altera 
 
-Welcome to **MERN Altera**, a full-stack web application showcasing the use of the MERN stack with advanced functionality like routing, state management, and server-side integration. This project highlights CRUD operations for managing products while providing a user-friendly interface.
+Welcome to **MERN Altera**, a full-stack web application showcasing the use of the MERN stack with advanced functionality like routing, state management, and server-side integration. This project highlights CRUD operations for managing products while providing a user-friendly interface. [MERN Altera](https://mern-altera.onrender.com)  
+  
+![image](https://github.com/user-attachments/assets/6c14241e-637c-4297-a4db-14f7c099187e)
 
-## 🚀 Live Demo
+
+![image](https://github.com/user-attachments/assets/d2c8d9ff-6071-48f6-b00d-21d6d96a98e7)
+
+![image](https://github.com/user-attachments/assets/c6d37aac-49de-4784-ab1d-9f977bdffb0e)
+
+![image](https://github.com/user-attachments/assets/ec7a527e-c144-41c6-8571-7d5ad20f8a3f)
+
+## Live Demo
 Check out the live deployment on Render: [MERN Altera](https://mern-altera.onrender.com)
 
-## 📂 Project Structure
+## < Project Structure
 This project is built using the MERN stack (MongoDB, Express, React, Node.js) with additional tools and libraries to enhance functionality and design.
 
 ### Technologies Used
@@ -24,7 +33,7 @@ This project is built using the MERN stack (MongoDB, Express, React, Node.js) wi
 - **Testing and API Interaction:**
   - [Postman](https://www.postman.com/)
 
-## 🌟 Features
+## Features
 - **Dynamic Product Management:**
   - CRUD functionality for products
   - Visual representation of products with images, names, and prices
@@ -44,7 +53,7 @@ This project is built using the MERN stack (MongoDB, Express, React, Node.js) wi
 - **Responsive Design:**
   - Optimized for desktop and mobile using Tailwind CSS
 
-## 📋 Getting Started
+## <> Getting Started
 
 ### Prerequisites
 Ensure you have the following installed on your machine:
@@ -81,7 +90,7 @@ MONGO_URI=<your-mongodb-connection-string>
 PORT=<backend-server-port>
 ```
 
-## 💻 Usage
+## [] Usage
 
 ### Pages
 - **Welcome Page** (`/`): Introduction to the app
@@ -108,7 +117,7 @@ This project demonstrates:
 - Modular, reusable components
 - Clean and responsive UI design
 
-## 📜 License
+## // License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
