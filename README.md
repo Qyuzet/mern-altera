@@ -9,6 +9,8 @@ Welcome to **MERN Altera**, a full-stack web application showcasing the use of t
 
 ![image](https://github.com/user-attachments/assets/c6d37aac-49de-4784-ab1d-9f977bdffb0e)
 
+![image](https://github.com/user-attachments/assets/51e06f62-322d-459a-9191-70fa6a80c685)
+
 ![image](https://github.com/user-attachments/assets/ec7a527e-c144-41c6-8571-7d5ad20f8a3f)
 
 ## Live Demo
